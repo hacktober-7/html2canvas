@@ -26,7 +26,7 @@ The script is still in a **very experimental state**, so I don't recommend using
 The library should work fine on the following browsers (with `Promise` polyfill):
 
 * Firefox 3.5+
-* Google Chrome
+* Google Chromeskjfkjdlkf
 * Opera 12+
 * IE9+
 * Safari 6+
